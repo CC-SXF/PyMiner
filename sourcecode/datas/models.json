@@ -1,0 +1,11 @@
+{
+    "": ["", ""],
+    "bsu": ["bsu_iYO844.json", "Bacillus subtilis subsp. subtilis 168"],
+    "eco": ["eco_iJO1366.json", "Escherichia coli K-12 MG1655"],
+    "kpn": ["kpn_iYL1228.json", "Klebsiella pneumoniae subsp. pneumoniae MGH 78578"],
+    "llm": ["llm_iNF517.json", "Lactococcus lactis subsp. cremoris MG1363"], 
+    "ppu": ["ppu_iJN1462.json", "Pseudomonas putida KT2440"],
+    "sce": ["sce_iMM904.json", "Saccharomyces cerevisiae S288c"],
+    "syz": ["syz_iSynCJ816.json", "Synechocystis sp. PCC 6803"]
+    
+}
