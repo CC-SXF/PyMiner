@@ -36,7 +36,7 @@ conda install -c rdkit rdkit=2020.03.2
   
   https://pypi.org/project/cobra/0.22.0/
 ```
-pip install cobra==0.22.0
+  pip install cobra==0.22.0
 ```
 
 # Usage
