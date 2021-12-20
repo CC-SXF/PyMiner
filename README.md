@@ -21,7 +21,7 @@ PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.
   # # pip install PyQt5==5.9.2
 ```
 
-+ numpy (so as to be compatible with COBRApy)
++ NumPy (so as to be compatible with COBRApy)
   
   https://numpy.org/install/
 ```
