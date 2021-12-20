@@ -2,7 +2,6 @@
 PyMiner is a practical and effective tool for metabolic pathway design that can meet a variety of pathway design requirements, including the pathways from initial substrates to target product, and the exogenous pathways of one specific chassis microorganism just given the target product. In addition, PyMiner can search for metabolic pathways within a given length, metabolic pathways with a specific length , and the shortest metabolic pathways.
 
 # Anaconda environment
-PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.net/) were used to build the metabolic pathway design tool PyMiner.
 
 + Windows:
   https://repo.anaconda.com/archive/Anaconda3-2019.07-Windows-x86_64.exe
@@ -10,7 +9,8 @@ PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.
 + MacOS:
   https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.pkg
 
-a) PyQt5 (satisfied after installing Anaconda3)
+PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.net/) were used to build the metabolic pathway design tool PyMiner.
+  a) PyQt5 (satisfied after installing Anaconda3)
 
   https://pypi.org/project/PyQt5/5.9.2/
 ```
