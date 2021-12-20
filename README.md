@@ -7,7 +7,7 @@ PyMiner is a practical and effective tool for metabolic pathway design that can 
 
   https://repo.anaconda.com/archive/Anaconda3-2019.07-Windows-x86_64.exe
 
-  --> Add Anaconda to the system PATH environment variable.
+  —> Add Anaconda to the system PATH environment variable.
 + MacOS:
 
   https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.pkg
