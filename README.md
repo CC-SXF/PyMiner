@@ -34,16 +34,6 @@ conda install -c rdkit rdkit=2020.03.2
 pip install cobra==0.22.0
 ```
 
-- Data augmentation. In each 'pairs.csv' file, we give all positive pairs and the augmented negative pairs. With DeepTACT/DataPrepare.py, you can augment positive training pairs, obtain balanced training data and imbalanced testing data for each cell line. Simply run
-```
-python DataPrepare.py Mon P-E
-```
-
-- Bootstrapping. With DeepTACT/Bootstrapping.py, we bootstrap each original dataset 20 times for ensemble learning. We give an example of the inputs for bootstrapping in DeepTACT/demo directory. When running 'Bootstrapping.py', you need to specify the directory of inputs, the type of interactions, and the number of DNase-seq experiments that are used to provide openness signals. Using data in demo directory as an example, run 
-```
-python Bootstrapping.py demo P-E 3
-```
-
 # Usage
 ```
 PyMiner_1.0.py
