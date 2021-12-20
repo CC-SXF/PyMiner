@@ -10,7 +10,8 @@ PyMiner is a practical and effective tool for metabolic pathway design that can 
   https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.pkg
 
 PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.net/) were used to build the metabolic pathway design tool PyMiner.
-  a) PyQt5 (satisfied after installing Anaconda3)
+
++a) PyQt5 (satisfied after installing Anaconda3)
 
   https://pypi.org/project/PyQt5/5.9.2/
 ```
