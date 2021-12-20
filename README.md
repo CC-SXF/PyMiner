@@ -10,25 +10,25 @@ PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.
 - MacOS:
   https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.pkg
 
-  1) PyQt5 (satisfied after installing Anaconda3)
+  1. PyQt5 (satisfied after installing Anaconda3)
   https://pypi.org/project/PyQt5/5.9.2/
 ```
 # # pip install PyQt5==5.9.2
 ```
 
-  2) numpy (so as to be compatible with COBRApy)
+  2. numpy (so as to be compatible with COBRApy)
   https://numpy.org/install/
 ```
 pip install numpy==1.17.3
 ```
 
-  3) RDKit
+  3. RDKit
   https://anaconda.org/rdkit/rdkit
 ```
 conda install -c rdkit rdkit=2020.03.2
 ```
 
-  4) COBRApy
+  4. COBRApy
   https://pypi.org/project/cobra/0.22.0/
 ```
 pip install cobra==0.22.0
