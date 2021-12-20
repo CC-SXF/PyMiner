@@ -11,6 +11,7 @@ PyQt5, RDKit (https://www.rdkit.org/) and COBRApy (http://opencobra.sourceforge.
   https://repo.anaconda.com/archive/Anaconda3-2019.07-MacOSX-x86_64.pkg
 
   1. PyQt5 (satisfied after installing Anaconda3)
+
   https://pypi.org/project/PyQt5/5.9.2/
 ```
 # # pip install PyQt5==5.9.2
