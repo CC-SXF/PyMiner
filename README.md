@@ -1,6 +1,8 @@
 # PyMiner
 PyMiner is a practical and effective tool for metabolic pathway design that can meet a variety of pathway design requirements, including the pathways from initial substrates to target product, and the exogenous pathways of one specific chassis microorganism just given the target product. In addition, PyMiner can search for metabolic pathways within a given length, metabolic pathways with a specific length , and the shortest metabolic pathways.
 
+<img src="https://github.com/CC-SXF/PyMiner/blob/main/PyMiner.tif" width="200" />
+
 # Anaconda environment
 
 + Windows:
