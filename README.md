@@ -50,4 +50,4 @@ PyMiner.py
 ```
 
 # References
-If you find this work or code useful, please cite this study. The citation will be updated soon.
+Song XF, Dong MY, Liu M. PyMiner: A Method for Metabolic Pathway Design Based on the Uniform Similarity of Substrate-Product Pairs and Conditional Search. PLoS One, 2022, 17(4):e0266783.
